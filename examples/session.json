@@ -1,0 +1,17 @@
+{
+  "state": "Ćwiczę pięć włoskich słówek.",
+  "done": [
+    "Przeczytałem słowa i ich znaczenie."
+  ],
+  "decisions": [
+    "Powtarzam słowa bez podpowiedzi."
+  ],
+  "open_questions": [
+    "Które słowa zapamiętam po przerwie?"
+  ],
+  "next_step": "Spróbować odtworzyć pięć słów z pamięci.",
+  "knowledge": [
+    "buongiorno - dzień dobry",
+    "grazie - dziękuję"
+  ]
+}
